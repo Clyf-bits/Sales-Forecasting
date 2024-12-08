@@ -68,4 +68,12 @@ The model's accuracy is assessed using metrics like Mean Absolute Error (MAE) an
 
 The insights gained from the forecasting can enhance operational efficiency and potentially drive business growth.
 
+***
+## Technology Stack
++ Python
++ Pandas
++ Scikit-learn
++ Matplotlib
+***
+
 
