@@ -44,14 +44,19 @@ The stationarity check revealed that the sales data for certain store-item combi
 + Generate forecasts for the specified number of future time steps.
 ___
 ## Usage
-1. Clone the repository. `git clone https://github.com/yourusername/sales-forecasting.git
-cd sales-forecasting`
+1. Clone the repository.
+```bash
+git clone https://github.com/yourusername/sales-forecasting.git
+cd sales-forecasting
+```
 
-2. Prepare your CSV data file and place it in the project directory.
+3. Prepare your CSV data file and place it in the project directory.
 
-3. Run the Jupyter Notebook:
+4. Run the Jupyter Notebook:
 
-`jupyter notebook Sales_Forecasting.ipynb`
+```bash
+jupyter notebook Sales_Forecasting.ipynb
+```
 <p>Follow the instructions in the notebook to execute the forecasting steps.</p>
 
 ___
