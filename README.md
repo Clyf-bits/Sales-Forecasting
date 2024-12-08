@@ -46,7 +46,7 @@ ___
 ## Usage
 1. Clone the repository.
 ```bash
-git clone https://github.com/yourusername/sales-forecasting.git
+git clone https://github.com/Clyf-bits/sales-forecasting.git
 cd sales-forecasting
 ```
 
